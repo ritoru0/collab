@@ -10,5 +10,6 @@ public class FirstClass {
 		System.out.println("i	=	"+i);
 		System.out.println("s	=	"	+	s);
 		System.out.printf("z	=	%f",z);
+		
 }
 }
